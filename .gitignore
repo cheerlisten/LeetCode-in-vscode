@@ -1,0 +1,9 @@
+
+.cache
+.vs
+.vscode
+build
+embeded/
+extern
+temp
+*.cpp
